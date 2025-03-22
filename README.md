@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Chakrabortysoura
-- 👀 I’m interested in Web Development & Linux 
-- 🌱 I’m currently learning Programming and also Computer Science
-- 📫 How to reach me chakrabortysoura29@gmail.com
+- 👀 Machine Learning, Linux, Programming
+- 🌱 Learning write good code
+- 📫 How to reach me chakrabortysoura21@gmail.com
 
 <!---
 Chakrabortysoura/Chakrabortysoura is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
