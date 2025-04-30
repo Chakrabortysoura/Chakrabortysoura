@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chakrabortysoura
-- 👀 Machine Learning, Linux, Programming
-- 🌱 Learning write good code
+- 👀 Enthusiatic about linux and low level systems programming in general, Spring Boot developer, machine learning 
+- 🌱 Learning to write good code
 - 📫 How to reach me chakrabortysoura21@gmail.com
 
 <!---
