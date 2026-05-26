@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Chakrabortysoura
-- 👀 Enthusiatic about linux and low level systems programming in general,
-- Spring Boot developer 
-- 🌱 Learning to write good code
+- 👀 Enthusiatic about linux and low level systems programming in general. 
+- Learnig C and exploring new languages.
+- 🌱 Learning to write good code.
 - 📫 How to reach me chakrabortysoura21@gmail.com
 
 <!---
